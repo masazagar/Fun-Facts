@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './App.css'
+import "./index.css"
 import Header from "./Header.jsx"
 import Form from "./Form.jsx"
 import Post from "./Post.jsx"
